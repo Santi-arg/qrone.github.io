@@ -1,0 +1,9 @@
+cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={ 
+"dr/12731_1024_576_Hu-20Sa-39Tr21.png": "img1.json",
+"dr/12881_375_210.png": "img2.json",
+"dr/13027_375_281.png": "img2.json",
+"dr/13118_375_281.png": "img2.json",
+"dr/13221_375_210.png": "img3.json",
+"dr/13312_375_210.png": "img3.json",
+"dr/8714_1024_627.png": "img3.json",
+"___":"___"};
